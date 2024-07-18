@@ -9,4 +9,4 @@ eureka:
 
 spring:
     application:
-        name:config-default
+        name: config-default
